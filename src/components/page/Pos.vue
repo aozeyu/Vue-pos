@@ -287,14 +287,20 @@ export default {
 .foodImg {
   width: 40%;
 }
+.foodImg img{
+  width: 100px;
+  height: 100px;
+}
 .foodName {
   font-size: 16px;
-  padding-left: 10px;
+  padding-left: 20px;
   color: brown;
+  width: 90px;
+  height: 21px;
 }
 .foodPrice {
   font-size: 16px;
-  padding-left: 10px;
+  padding-left: 30px;
   padding-top: 10px;
 }
 .totalDiv {
